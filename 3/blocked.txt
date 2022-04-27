@@ -1,0 +1,4 @@
+/json_placeholder/posts
+/json_placeholder/posts/
+/json_placeholder/todos
+/json_placeholder/todos/

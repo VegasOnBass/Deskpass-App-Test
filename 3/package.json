@@ -1,0 +1,15 @@
+{
+  "name": "proxy0",
+  "version": "1.0.0",
+  "description": "simple proxy",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "http-proxy-middleware": "^2.0.6",
+    "morgan": "^1.10.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
