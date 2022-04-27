@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.image {
+  width: 100px;
+  height: 100px;
+}
+
+.bottomSpace {
+  margin-bottom: 50px;
+}
+
+.emoji {
+  font-size: 64px;
+  width: 64px;
+  height: 64px;
+}
